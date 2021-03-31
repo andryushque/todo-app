@@ -1,0 +1,12 @@
+.item-add-form {
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.item-add-form .input {
+    margin-right: 0.5rem;
+}
+
+.item-add-form .btn {
+    min-width: 100px;
+}
